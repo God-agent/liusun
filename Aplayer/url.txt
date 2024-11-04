@@ -1,0 +1,42 @@
+//VSCode快速复制一行代码
+shift+alt+up 或 shift+alt+down
+//VSCode快速删除一行代码
+shift+ctrl+k
+
+// 模板
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+
+// Aplayer插件
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/dist/APlayer.min.css
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/dist/APlayer.min.js
+
+
+// 图片地址
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/Call of Silence.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/Windy Hill.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/YESとNOの間に.webp
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/光るなら.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/告白之夜.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/团子大家族.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/幻昼.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/恋爱预演.webp
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/我曾爱过一个人.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/穿越时空的思念.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/莫尔德颂歌.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/imglrc/金木研.jpg
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
+https://cdn.jsdelivr.net/gh/God-agent/liusun/
