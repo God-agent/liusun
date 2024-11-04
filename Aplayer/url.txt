@@ -1,6 +1,6 @@
-//VSCode快速复制一行代码
+// VSCode快速复制一行代码
 shift+alt+up 或 shift+alt+down
-//VSCode快速删除一行代码
+// VSCode快速删除一行代码
 shift+ctrl+k
 
 // 模板
