@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/God-agent/liusun/Aplayer/dist/APlayer.min.js
